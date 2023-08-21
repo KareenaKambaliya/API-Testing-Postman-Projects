@@ -115,4 +115,5 @@ curl -X PUT \
   -H 'Content-Type: application/json' \
   -H 'Cookie: token=abc123'
 ```
-
+## Summary Report
+![Newman Summary Report of 21 aug 2023](https://github.com/KareenaKambaliya/Restful-Booker-API-testing-Project/blob/a60f02d902a30a81af6c40488c766ba6b97fa8e9/Newman%20Summary%20Report%20of%2021%20aug%202023.pdf)
